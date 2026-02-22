@@ -1,4 +1,4 @@
-# Project Title (Update)
+# Weather Service App
 
 This project is a Flutter mobile application that allows users to select a country and city and then view real‑time weather information for that location. It includes multiple screens, interactive search fields, dynamic UI updates based on user input, weather icons, and a custom launcher icon to personalize the app experience..
 
